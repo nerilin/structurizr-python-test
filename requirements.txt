@@ -1,0 +1,1 @@
+structurizr-python==0.6.0
